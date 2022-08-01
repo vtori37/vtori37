@@ -3,9 +3,9 @@
 
 ## About Me:                       
 
-> * I am a Business Administration graduate who is an aspiring full-stack web developer.
-> * Currently enrolled in a Full-Stack Web Development coding Bootcamp.
-> * Currently learning MySQL, JavaScript, and Node.js.
+> * 😄 Full-stack web developer with a background in Business Administration in International Business.
+> * 🔭 Deepending my understanding of HTML, JavaScript, CSS, MySQL, Node.js, and React. 
+> * 🌱 Plan to learn TypeScript, Java, Python, and C#.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=bear&layout&=compact)](https://github.com/anuraghazra/github-readme-stats)
        
