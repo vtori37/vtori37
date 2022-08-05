@@ -1,6 +1,5 @@
 # Hi there 👋🏾 My Name is Victoria Rice!
 ![Victoria's GitHub stats](https://github-readme-stats.vercel.app/api?username=vtori37&theme=bear&show_icons=true) 
-
 ## About Me:                       
 
 > * 😄 Full-stack web developer with a background in Business Administration in International Business.
