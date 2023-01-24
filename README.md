@@ -3,8 +3,8 @@
 ## About Me:                       
 
 > * 😄 Full-stack web developer with a background in Business Administration in International Business.
-> * 🔭 Deepending my understanding of HTML, JavaScript, CSS, MySQL, Node.js, and React. 
-> * 🌱 Plan to learn TypeScript, Java, Python, and C#.
+> * 🔭 Deepening my understanding of C#, HTML, JavaScript, CSS, MySQL, Node.js, and React. 
+> * 🌱 Plan to learn TypeScript, Java, and Python.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=bear&layout&=compact)](https://github.com/anuraghazra/github-readme-stats)
        
